@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TODO APPCIATION</string>
+    <string name="delete_record">delete Record</string>
+    <string name="delete_all">delete_all</string>
+</resources>
